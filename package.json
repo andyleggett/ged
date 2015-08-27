@@ -1,0 +1,20 @@
+{
+  "name": "GEDCOM_Parser",
+  "version": "0.0.1",
+  "description": "Parses Gedcom 5.5 files",
+  "main": "parse.js",
+  "scripts": {
+    "start": "node parse.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "ramda": "^0.17.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.7.x"
+  }
+}
